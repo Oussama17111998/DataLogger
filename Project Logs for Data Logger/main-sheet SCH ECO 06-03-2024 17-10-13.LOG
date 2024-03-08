@@ -1,0 +1,3 @@
+Remove Pin=*-23 From Net=EN
+Remove Pin=*-30 From Net=GP25
+Remove Pin=R19-1 From Net=GP25

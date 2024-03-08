@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=GND Pin=*-1
+Removed Pin From Net: NetName=GP23 Pin=*-2
+Removed Pin From Net: NetName=GND Pin=*-7
+Removed Pin From Net: NetName=+3V3 Pin=*-22
+Removed Pin From Net: NetName=GP34 Pin=*-26
+Removed Pin From Net: NetName=GP35 Pin=*-27
+Removed Pin From Net: NetName=GP32 Pin=*-28
+Removed Pin From Net: NetName=GP33 Pin=*-29
+Removed Pin From Net: NetName=GP27 Pin=*-32
+Removed Pin From Net: NetName=GND Pin=*-35
+Removed Pin From Net: NetName=+5V Pin=*-40
+Removed Pin From Net: NetName=GP27 Pin=R6-1
+Removed Pin From Net: NetName=GP32 Pin=R7-1
+Removed Pin From Net: NetName=GP33 Pin=R8-1
+Removed Pin From Net: NetName=GP34 Pin=R9-1
+Removed Pin From Net: NetName=GP23 Pin=R10-1
+Removed Pin From Net: NetName=GP35 Pin=R15-1
+Removed Pin From Net: NetName=GP35 Pin=R16-2
+Removed Member From Class: ClassName=U_board Member=*
+Added Component: Designator=U3(LilyGo-T-Call-SIM800L)
+Added Pin To Net: NetName=GP23 Pin=J1-2
+Add Pin To Net: Unknown Pin: Pin N1-1
+Add Pin To Net: Unknown Pin: Pin N1-2
+Added Pin To Net: NetName=GP23 Pin=R1-1
+Added Pin To Net: NetName=GP34 Pin=R6-1
+Added Pin To Net: NetName=GP35 Pin=R7-1
+Added Pin To Net: NetName=GP32 Pin=R8-1
+Added Pin To Net: NetName=GP33 Pin=R9-1
+Added Pin To Net: NetName=GP27 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GP23 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=+3V3 Pin=U3-22
+Added Pin To Net: NetName=GP34 Pin=U3-26
+Added Pin To Net: NetName=GP35 Pin=U3-27
+Added Pin To Net: NetName=GP32 Pin=U3-28
+Added Pin To Net: NetName=GP33 Pin=U3-29
+Added Pin To Net: NetName=GP27 Pin=U3-32
+Added Pin To Net: NetName=GND Pin=U3-35
+Added Pin To Net: NetName=+5V Pin=U3-40
+Added Pin To Net: NetName=GP18 Pin=J5-2
+Added Pin To Net: NetName=GP18 Pin=R5-1
+Added Pin To Net: NetName=GP18 Pin=U3-9
+Added Net: Name=GP18
+Added Pin To Net: NetName=GP19 Pin=J4-2
+Added Pin To Net: NetName=GP19 Pin=R4-1
+Added Pin To Net: NetName=GP19 Pin=U3-8
+Added Net: Name=GP19
+Added Pin To Net: NetName=GP21 Pin=J3-2
+Added Pin To Net: NetName=GP21 Pin=R3-1
+Added Pin To Net: NetName=GP21 Pin=U3-6
+Added Net: Name=GP21
+Added Pin To Net: NetName=GP22 Pin=J2-2
+Added Pin To Net: NetName=GP22 Pin=R2-1
+Added Pin To Net: NetName=GP22 Pin=U3-3
+Added Net: Name=GP22
+Added Pin To Net: NetName=GP25 Pin=R10-1
+Added Pin To Net: NetName=GP25 Pin=U3-30
+Added Net: Name=GP25
+Added Pin To Net: NetName=GP26 Pin=R15-1
+Added Pin To Net: NetName=GP26 Pin=R16-2
+Added Pin To Net: NetName=GP26 Pin=U3-31
+Added Net: Name=GP26
+Added Member To Class: ClassName=U_board Member=Component U3 LilyGo-T-Call-SIM800L
+Added Room: Name=U_board
+Added Room: Name=U_circuit de charge
+Added Room: Name=U_entrée_sortie

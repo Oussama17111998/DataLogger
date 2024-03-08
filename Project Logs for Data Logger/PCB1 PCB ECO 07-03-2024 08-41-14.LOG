@@ -1,0 +1,272 @@
+Added Component: Designator=J1(282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(282834-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J11(282834-2)
+Added Component: Designator=J12(282834-2)
+Added Component: Designator=LED1(led red)
+Added Component: Designator=LED4(led red)
+Added Component: Designator=LED5(led red)
+Added Component: Designator=LED6(led green)
+Added Component: Designator=N1(ntc 10D-11)
+Added Component: Designator=O1(optocoupleur)
+Added Component: Designator=O2(optocoupleur)
+Added Component: Designator=O3(optocoupleur)
+Added Component: Designator=O4(optocoupleur)
+Added Component: Designator=O5(optocoupleur)
+Added Component: Designator=R1(RES_10k)
+Added Component: Designator=R2(RES_10k)
+Added Component: Designator=R3(RES_10k)
+Added Component: Designator=R4(RES_10k)
+Added Component: Designator=R5(RES_10k)
+Added Component: Designator=R6(res 220)
+Added Component: Designator=R7(res 220)
+Added Component: Designator=R8(res 220)
+Added Component: Designator=R9(res 220)
+Added Component: Designator=R10(res 220)
+Added Component: Designator=R11(res 1k)
+Added Component: Designator=R12(res 1k)
+Added Component: Designator=R13(res 2.2k)
+Added Component: Designator=R14(RES_10k)
+Added Component: Designator=R15(res 220)
+Added Component: Designator=R16(res 220)
+Added Component: Designator=R17(RES_10k)
+Added Component: Designator=R18(res 220)
+Added Component: Designator=R19(res 220)
+Added Component: Designator=Rprog(1206)
+Added Component: Designator=SW1(4301x60707x6)
+Added Component: Designator=U1(USB)
+Added Component: Designator=U2(TP4056)
+Added Component: Designator=U3(LilyGo-T-Call-SIM800L)
+Added Pin To Net: NetName=+3V3 Pin=LED4-C
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=R3-2
+Added Pin To Net: NetName=+3V3 Pin=R4-2
+Added Pin To Net: NetName=+3V3 Pin=R5-2
+Added Pin To Net: NetName=+3V3 Pin=R17-2
+Added Pin To Net: NetName=+3V3 Pin=U3-22
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=O1-4
+Added Pin To Net: NetName=+5V Pin=O2-4
+Added Pin To Net: NetName=+5V Pin=O3-4
+Added Pin To Net: NetName=+5V Pin=O4-4
+Added Pin To Net: NetName=+5V Pin=O5-4
+Added Pin To Net: NetName=+5V Pin=U3-40
+Added Net: Name=+5V
+Added Pin To Net: NetName=EN Pin=R17-1
+Added Pin To Net: NetName=EN Pin=R18-2
+Added Pin To Net: NetName=EN Pin=SW1-B2
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Pin To Net: NetName=GND Pin=LED1-C
+Added Pin To Net: NetName=GND Pin=O1-2
+Added Pin To Net: NetName=GND Pin=O2-2
+Added Pin To Net: NetName=GND Pin=O3-2
+Added Pin To Net: NetName=GND Pin=O4-2
+Added Pin To Net: NetName=GND Pin=O5-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=SW1-A1
+Added Pin To Net: NetName=GND Pin=U1-SH1
+Added Pin To Net: NetName=GND Pin=U1-SH2
+Added Pin To Net: NetName=GND Pin=U1-SH3
+Added Pin To Net: NetName=GND Pin=U1-SH4
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=GND Pin=U3-35
+Added Net: Name=GND
+Added Pin To Net: NetName=GP18 Pin=J5-2
+Added Pin To Net: NetName=GP18 Pin=R5-1
+Added Pin To Net: NetName=GP18 Pin=U3-9
+Added Net: Name=GP18
+Added Pin To Net: NetName=GP19 Pin=J4-2
+Added Pin To Net: NetName=GP19 Pin=R4-1
+Added Pin To Net: NetName=GP19 Pin=U3-8
+Added Net: Name=GP19
+Added Pin To Net: NetName=GP21 Pin=J3-2
+Added Pin To Net: NetName=GP21 Pin=R3-1
+Added Pin To Net: NetName=GP21 Pin=U3-6
+Added Net: Name=GP21
+Added Pin To Net: NetName=GP22 Pin=J2-2
+Added Pin To Net: NetName=GP22 Pin=R2-1
+Added Pin To Net: NetName=GP22 Pin=U3-3
+Added Net: Name=GP22
+Added Pin To Net: NetName=GP23 Pin=J1-2
+Added Pin To Net: NetName=GP23 Pin=R1-1
+Added Pin To Net: NetName=GP23 Pin=U3-2
+Added Net: Name=GP23
+Added Pin To Net: NetName=GP25 Pin=R10-1
+Added Pin To Net: NetName=GP25 Pin=U3-30
+Added Net: Name=GP25
+Added Pin To Net: NetName=GP26 Pin=R15-1
+Added Pin To Net: NetName=GP26 Pin=R16-2
+Added Pin To Net: NetName=GP26 Pin=U3-31
+Added Net: Name=GP26
+Added Pin To Net: NetName=GP32 Pin=R8-1
+Added Pin To Net: NetName=GP32 Pin=U3-28
+Added Net: Name=GP32
+Added Pin To Net: NetName=GP33 Pin=R9-1
+Added Pin To Net: NetName=GP33 Pin=U3-29
+Added Net: Name=GP33
+Added Pin To Net: NetName=GP34 Pin=R6-1
+Added Pin To Net: NetName=GP34 Pin=U3-26
+Added Net: Name=GP34
+Added Pin To Net: NetName=GP35 Pin=R7-1
+Added Pin To Net: NetName=GP35 Pin=U3-27
+Added Net: Name=GP35
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=O1-3
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=O2-3
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=O3-3
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=O4-3
+Added Net: Name=NetJ9_1
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=O5-3
+Added Net: Name=NetJ10_1
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ11_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ11_1 Pin=R15-2
+Added Pin To Net: NetName=NetJ11_1 Pin=U2-5
+Added Net: Name=NetJ11_1
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=R19-2
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetLED4_A Pin=LED4-A
+Added Pin To Net: NetName=NetLED4_A Pin=R18-1
+Added Net: Name=NetLED4_A
+Added Pin To Net: NetName=NetLED5_A Pin=LED5-A
+Added Pin To Net: NetName=NetLED5_A Pin=R11-1
+Added Net: Name=NetLED5_A
+Added Pin To Net: NetName=NetLED5_C Pin=LED5-C
+Added Pin To Net: NetName=NetLED5_C Pin=U1-1
+Added Pin To Net: NetName=NetLED5_C Pin=U2-4
+Added Net: Name=NetLED5_C
+Added Pin To Net: NetName=NetLED6_A Pin=LED6-A
+Added Pin To Net: NetName=NetLED6_A Pin=R13-2
+Added Pin To Net: NetName=NetLED6_A Pin=U2-8
+Added Net: Name=NetLED6_A
+Added Pin To Net: NetName=NetLED6_C Pin=LED6-C
+Added Pin To Net: NetName=NetLED6_C Pin=R12-2
+Added Net: Name=NetLED6_C
+Added Pin To Net: NetName=NetN1_1 Pin=R13-1
+Added Pin To Net: NetName=NetN1_1 Pin=R14-2
+Added Pin To Net: NetName=NetN1_1 Pin=U2-1
+Added Net: Name=NetN1_1
+Added Pin To Net: NetName=NetO1_1 Pin=O1-1
+Added Pin To Net: NetName=NetO1_1 Pin=R6-2
+Added Net: Name=NetO1_1
+Added Pin To Net: NetName=NetO2_1 Pin=O2-1
+Added Pin To Net: NetName=NetO2_1 Pin=R7-2
+Added Net: Name=NetO2_1
+Added Pin To Net: NetName=NetO3_1 Pin=O3-1
+Added Pin To Net: NetName=NetO3_1 Pin=R8-2
+Added Net: Name=NetO3_1
+Added Pin To Net: NetName=NetO4_1 Pin=O4-1
+Added Pin To Net: NetName=NetO4_1 Pin=R9-2
+Added Net: Name=NetO4_1
+Added Pin To Net: NetName=NetO5_1 Pin=O5-1
+Added Pin To Net: NetName=NetO5_1 Pin=R10-2
+Added Net: Name=NetO5_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U2-7
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U2-6
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetRprog_1 Pin=Rprog-1
+Added Pin To Net: NetName=NetRprog_1 Pin=U1-5
+Added Net: Name=NetRprog_1
+Added Pin To Net: NetName=NetRprog_2 Pin=Rprog-2
+Added Pin To Net: NetName=NetRprog_2 Pin=U2-2
+Added Net: Name=NetRprog_2
+Added Class: Name=U_board
+Added Class: Name=U_circuit de charge
+Added Class: Name=U_entrée_sortie
+Added Room: Name=U_board
+Added Room: Name=U_circuit de charge
+Added Room: Name=U_entrée_sortie
