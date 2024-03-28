@@ -1,4 +1,4 @@
 Record=TopLevelDocument|FileName=main--sheet.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=main--sheet.SchDoc|Designator=U_board|SchDesignator=U_board|FileName=board.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=board.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main--sheet.SchDoc|Designator=U_board|SchDesignator=U_board|FileName=board.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=board.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=main--sheet.SchDoc|Designator=U_circuit de charge|SchDesignator=U_circuit de charge|FileName=circuit de charge.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=circuit de charge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=main--sheet.SchDoc|Designator=U_entrée_sortie|SchDesignator=U_entrée_sortie|FileName=entrée_sortie.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=entrée_sortie.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=main--sheet.SchDoc|FileName=Valve.SchDoc|SheetNumber=4
