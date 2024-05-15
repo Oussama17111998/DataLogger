@@ -1,0 +1,14 @@
+Component   : res 1k
+PCB Library : Data_logger.PcbLib
+Date        : 14/05/2024
+Time        : 19:13:53
+
+
+
+Dimension : 3.099 x 1.676 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          1        0       0        0
+--------------------------------------------------------------------
+ Total                       0          1        0       0        0
